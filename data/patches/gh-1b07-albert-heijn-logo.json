@@ -1,0 +1,40 @@
+{
+	"id": -1,
+	"name": "Albert Heijn logo",
+	"description": "Albert Heijn is the largest supermarket chain in the Netherlands with a market share of 37% in 2022. The company was founded in 1887. The business under this brand has grown into one of the largest companies in the Netherlands with branches in Belgium.",
+	"links": {
+		"discord": [
+			"PlaceNL"
+		]
+	},
+	"path": {
+		"147-163": [
+			[
+				-479,
+				-493
+			],
+			[
+				-469,
+				-499
+			],
+			[
+				-461,
+				-487
+			],
+			[
+				-465,
+				-475
+			],
+			[
+				-481,
+				-481
+			]
+		]
+	},
+	"center": {
+		"147-163": [
+			-471,
+			-487
+		]
+	}
+}
